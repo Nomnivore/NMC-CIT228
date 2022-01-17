@@ -1,6 +1,5 @@
 
 import random
-import this
 
 
 num1 = random.randrange(1, 100)
@@ -27,4 +26,6 @@ print(f"{num1} + {num2} = {num1 + num2}")
 print(f"{num1} - {num2} = {num1 - num2}")
 print(f"{num1} * {num2} = {num1 * num2}")
 
+
+import this
 print(this)
