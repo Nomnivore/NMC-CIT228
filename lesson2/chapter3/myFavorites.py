@@ -1,7 +1,3 @@
-
-from turtle import numinput
-
-
 print("--------------- Hands on 1 ---------------")
 foods = ["brisket", "monte cristo", "cheesecake", "pizza", "sushi", "tacos"]
 print(f"Favorite foods: {foods}")
