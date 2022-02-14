@@ -1,0 +1,4 @@
+In python you can use for loops to iterate lists.
+In python you can print numbers and strings to the console.
+In python you can chain conditionals with 'and' / 'or'
+In python you can do anything.
