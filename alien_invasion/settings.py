@@ -3,7 +3,7 @@ class Settings:
 
     def __init__(self):
         """Initialize the game's settings"""
-        self.dev_mode = True
+        self.dev_mode = False
 
         # screen settings
         self.screen_width = 1366
